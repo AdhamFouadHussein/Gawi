@@ -60493,7 +60493,7 @@ $1(a){return K.agf()},
 $S:119}
 F.Vj.prototype={
 $3(a,b,c){var s=b.c?$.akH():$.akK()
-return new S.lG(new F.ti(null),"Weather",s,!1,null)},
+return new S.lG(new F.ti(null),"Gawi",s,!1,null)},
 $C:"$3",
 $R:3,
 $S:380}
