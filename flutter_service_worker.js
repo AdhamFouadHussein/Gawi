@@ -4,6 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   ".vscode/settings.json": "19751b2a32e46d1ba1477f357123a898",
+"android-chrome-192x192.png": "a5b3ff601019b16326a028be5820233b",
+"android-chrome-512x512.png": "abc8c1ef36fc4fe30222820fd7f20a31",
 "android-icon-144x144.png": "fa1e3ba5cfb15dfdaa9ffd898161b05e",
 "android-icon-192x192.png": "bef5dcf3db72647a744eacf433a5e08d",
 "android-icon-36x36.png": "cc41d57800c080ade3cea245601f2bd7",
@@ -21,6 +23,7 @@ const RESOURCES = {
 "apple-icon-76x76.png": "bf3dac96913e09700003a320042d59fb",
 "apple-icon-precomposed.png": "7f3e332941196306fb69ab1330d774ee",
 "apple-icon.png": "7f3e332941196306fb69ab1330d774ee",
+"apple-touch-icon.png": "6a5065c940dd5430b383a151806a8013",
 "assets/AssetManifest.json": "15bf94541b419a0a0f9ff5f2b2effae1",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -39,14 +42,17 @@ const RESOURCES = {
 "favicon-96x96.png": "7e68f099fd93176c0ab0a98e6ba14cad",
 "favicon.ico": "342e1827b6a6bcf019509516be0e74f9",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "beaa79d8ba5deed62218afdac23c15cd",
-"/": "beaa79d8ba5deed62218afdac23c15cd",
+"index.html": "14757b0036257738ae6f403632740d4d",
+"/": "14757b0036257738ae6f403632740d4d",
 "main.dart.js": "747fd965fcee01efeaa2f4fd8561f19e",
 "manifest.json": "b58fcfa7628c9205cb11a1b2c3e8f99a",
 "ms-icon-144x144.png": "fa1e3ba5cfb15dfdaa9ffd898161b05e",
 "ms-icon-150x150.png": "6a498e5a4258b1c9b5c231a62986d653",
 "ms-icon-310x310.png": "19b713fb56031a9e6f8a6c7061bbe6b1",
 "ms-icon-70x70.png": "085117981d6ef81a72c162bd93192d5d",
+"mstile-150x150.png": "37b5b09f3061ed00a283344b9d0247cf",
+"safari-pinned-tab.svg": "423e9df7130c2bb51f37517ac77507e0",
+"site.webmanifest": "cc13537dcc87ae91a8b448696a52bbb5",
 "version.json": "950ba10da9e27f4a0ad1ed8daed26d04"
 };
 
